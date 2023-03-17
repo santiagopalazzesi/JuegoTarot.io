@@ -1,0 +1,25 @@
+body {
+  background-color: rgba(211, 119, 247, 0.959);
+}
+
+#cardcont {
+  color: aliceblue;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#tarotcardcont {
+  display: none;
+  justify-content: center;
+  align-items: center;
+  margin-top: 5vh;
+}
+
+li {
+  list-style: none;
+}
+
+#carouselExampleIndicators {
+  display: none;
+}
